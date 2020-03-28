@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.1d3536dc.chunk.css",
-    "main.js": "/static/js/main.bb1d7ea5.chunk.js",
-    "main.js.map": "/static/js/main.bb1d7ea5.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.6a0b58aa.js",
-    "runtime~main.js.map": "/static/js/runtime~main.6a0b58aa.js.map",
-    "static/css/2.225c9f6d.chunk.css": "/static/css/2.225c9f6d.chunk.css",
-    "static/js/2.97d67a83.chunk.js": "/static/js/2.97d67a83.chunk.js",
-    "static/js/2.97d67a83.chunk.js.map": "/static/js/2.97d67a83.chunk.js.map",
+    "main.css": "/static/css/main.05d0bcf3.chunk.css",
+    "main.js": "/static/js/main.adb3ebbe.chunk.js",
+    "main.js.map": "/static/js/main.adb3ebbe.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2fba4240.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2fba4240.js.map",
+    "static/css/2.103f9f98.chunk.css": "/static/css/2.103f9f98.chunk.css",
+    "static/js/2.5ecb6bb6.chunk.js": "/static/js/2.5ecb6bb6.chunk.js",
+    "static/js/2.5ecb6bb6.chunk.js.map": "/static/js/2.5ecb6bb6.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9b88bf359efe48eb245b2e4fd7a81c75.js": "/precache-manifest.9b88bf359efe48eb245b2e4fd7a81c75.js",
+    "precache-manifest.653eac5e9e46d0bccfff669d27d4f41b.js": "/precache-manifest.653eac5e9e46d0bccfff669d27d4f41b.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.225c9f6d.chunk.css.map": "/static/css/2.225c9f6d.chunk.css.map",
-    "static/css/main.1d3536dc.chunk.css.map": "/static/css/main.1d3536dc.chunk.css.map",
+    "static/css/2.103f9f98.chunk.css.map": "/static/css/2.103f9f98.chunk.css.map",
+    "static/css/main.05d0bcf3.chunk.css.map": "/static/css/main.05d0bcf3.chunk.css.map",
+    "static/js/2.5ecb6bb6.chunk.js.LICENSE.txt": "/static/js/2.5ecb6bb6.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Ubuntu-R.7f0b42d1.ttf",
     "static/media/cc-icon.png": "/static/media/cc-icon.ea2b5006.png",
     "static/media/coinmarketsignals.png": "/static/media/coinmarketsignals.05f8464f.png",
     "static/media/development.jpg": "/static/media/development.793a3f22.jpg",
@@ -30,7 +32,13 @@
     "static/media/resume.pdf": "/static/media/resume.6b48744a.pdf",
     "static/media/solidity.png": "/static/media/solidity.a4ce9e24.png",
     "static/media/tbb.png": "/static/media/tbb.25f826ca.png",
-    "static/media/truffle.png": "/static/media/truffle.4d13a4c6.png",
-    "static/media/unity.png": "/static/media/unity.5e98403e.png"
-  }
+    "static/media/truffle.png": "/static/media/truffle.4d13a4c6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fba4240.js",
+    "static/css/2.103f9f98.chunk.css",
+    "static/js/2.5ecb6bb6.chunk.js",
+    "static/css/main.05d0bcf3.chunk.css",
+    "static/js/main.adb3ebbe.chunk.js"
+  ]
 }
